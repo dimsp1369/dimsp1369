@@ -6,7 +6,7 @@
 -->
 ## Here are the short about me like a front-End WebDev:
 
-- 👨🏻‍💻 I’m currently working to improve my abilities!
+- 👨🏻‍💻 I’m currently working to improve my skills!
 - 👯 I’m looking to collaborate with other devs.
 - 🔎 I’m looking for new opportunity for development.
 - 🥅 2020 Goal - I hope i will finish to my own project 💪🏼
