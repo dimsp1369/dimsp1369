@@ -9,7 +9,7 @@
 - 👨🏻‍💻 I’m currently working to improve my skills!
 - 👯 I’m looking to collaborate with other devs.
 - 🔎 I’m looking for new opportunity for development.
-- 🥅 2020 Goal - I hope i will finish to my own project 💪🏼
+- 🥅 2021 Goal - ->> NextJS & NestJS 💪🏼
 
 [![Indrajeet's github stats](https://github-readme-stats.vercel.app/api?username=dimsp1369&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
 
