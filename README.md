@@ -9,7 +9,7 @@
 - 👨🏻‍💻 I'm constantly improving my skills in order to be on-trend!
 - 👯 I’m looking to collaborate with other devs.
 - 🔎 I’m looking for new opportunity for development.
-- 🥅 2021 Goal - ->> NextJS & NestJS 💪🏼
+- 🥅 2022 Goal - ->> NextJS & NestJS 💪🏼
 
 
 ## Connect with me:
