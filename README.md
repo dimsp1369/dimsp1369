@@ -6,9 +6,9 @@
 -->
 ## Here are the short about me like a front-End WebDev:
 
-- 👨🏻‍💻 I'm constantly improving my skills in order to be on-trend!
-- 👯 I’m looking to collaborate with other devs.
-- 🔎 I’m looking for new opportunity for development.
+- 👨🏻‍💻 I am constantly improving my skills to be on trend!
+- 👯 I am looking to collaborate with other developers.
+- 🔎 I'm looking for new opportunities to develop.
 - 🥅 2022 Goal - ->> NextJS & NestJS 💪🏼
 
 
